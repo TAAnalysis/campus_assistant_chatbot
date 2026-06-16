@@ -1,0 +1,1463 @@
+[
+  {
+    "text": "Where is the Jerry Falwell Library? I need to find a quiet place to study.",
+    "intent": "find_location",
+    "location_id": "jerry_falwell_library",
+    "preprocessed": {
+      "lowercased": "where is the jerry falwell library? i need to find a quiet place to study.",
+      "tokens": [
+        "where",
+        "is",
+        "the",
+        "jerry",
+        "falwell",
+        "library",
+        "i",
+        "need",
+        "to",
+        "find",
+        "a",
+        "quiet",
+        "place",
+        "to",
+        "study"
+      ],
+      "tokens_no_stopwords": [
+        "jerry",
+        "falwell",
+        "library",
+        "need",
+        "find",
+        "quiet",
+        "place",
+        "study"
+      ],
+      "lemmatized": [
+        "jerry",
+        "falwell",
+        "library",
+        "need",
+        "find",
+        "quiet",
+        "place",
+        "study"
+      ]
+    }
+  },
+  {
+    "text": "How do I get to the LaHaye Recreation Center? I want to go to the gym.",
+    "intent": "find_location",
+    "location_id": "lahaye_recreation_center",
+    "preprocessed": {
+      "lowercased": "how do i get to the lahaye recreation center? i want to go to the gym.",
+      "tokens": [
+        "how",
+        "do",
+        "i",
+        "get",
+        "to",
+        "the",
+        "lahaye",
+        "recreation",
+        "center",
+        "i",
+        "want",
+        "to",
+        "go",
+        "to",
+        "the",
+        "gym"
+      ],
+      "tokens_no_stopwords": [
+        "get",
+        "lahaye",
+        "recreation",
+        "center",
+        "want",
+        "go",
+        "gym"
+      ],
+      "lemmatized": [
+        "get",
+        "lahaye",
+        "recreation",
+        "center",
+        "want",
+        "go",
+        "gym"
+      ]
+    }
+  },
+  {
+    "text": "What events are happening at the Montview Student Union today?",
+    "intent": "find_event",
+    "location_id": "montview_student_union",
+    "preprocessed": {
+      "lowercased": "what events are happening at the montview student union today?",
+      "tokens": [
+        "what",
+        "events",
+        "are",
+        "happening",
+        "at",
+        "the",
+        "montview",
+        "student",
+        "union",
+        "today"
+      ],
+      "tokens_no_stopwords": [
+        "events",
+        "happening",
+        "montview",
+        "student",
+        "union",
+        "today"
+      ],
+      "lemmatized": [
+        "event",
+        "happening",
+        "montview",
+        "student",
+        "union",
+        "today"
+      ]
+    }
+  },
+  {
+    "text": "Find me the fastest route to Williams Stadium for the football game.",
+    "intent": "find_location",
+    "location_id": "williams_stadium",
+    "preprocessed": {
+      "lowercased": "find me the fastest route to williams stadium for the football game.",
+      "tokens": [
+        "find",
+        "me",
+        "the",
+        "fastest",
+        "route",
+        "to",
+        "williams",
+        "stadium",
+        "for",
+        "the",
+        "football",
+        "game"
+      ],
+      "tokens_no_stopwords": [
+        "find",
+        "fastest",
+        "route",
+        "williams",
+        "stadium",
+        "football",
+        "game"
+      ],
+      "lemmatized": [
+        "find",
+        "fastest",
+        "route",
+        "williams",
+        "stadium",
+        "football",
+        "game"
+      ]
+    }
+  },
+  {
+    "text": "Where can I find the School of Business? I have a class there in ten minutes.",
+    "intent": "find_location",
+    "location_id": "school_of_business",
+    "preprocessed": {
+      "lowercased": "where can i find the school of business? i have a class there in ten minutes.",
+      "tokens": [
+        "where",
+        "can",
+        "i",
+        "find",
+        "the",
+        "school",
+        "of",
+        "business",
+        "i",
+        "have",
+        "a",
+        "class",
+        "there",
+        "in",
+        "ten",
+        "minutes"
+      ],
+      "tokens_no_stopwords": [
+        "find",
+        "school",
+        "business",
+        "class",
+        "ten",
+        "minutes"
+      ],
+      "lemmatized": [
+        "find",
+        "school",
+        "business",
+        "class",
+        "ten",
+        "minute"
+      ]
+    }
+  },
+  {
+    "text": "Is the Center for Natural Sciences lab open on weekends?",
+    "intent": "ask_hours",
+    "location_id": "center_for_natural_sciences_lab",
+    "preprocessed": {
+      "lowercased": "is the center for natural sciences lab open on weekends?",
+      "tokens": [
+        "is",
+        "the",
+        "center",
+        "for",
+        "natural",
+        "sciences",
+        "lab",
+        "open",
+        "on",
+        "weekends"
+      ],
+      "tokens_no_stopwords": [
+        "center",
+        "natural",
+        "sciences",
+        "lab",
+        "open",
+        "weekends"
+      ],
+      "lemmatized": [
+        "center",
+        "natural",
+        "science",
+        "lab",
+        "open",
+        "weekend"
+      ]
+    }
+  },
+  {
+    "text": "Show me the way to the Residential Commons. I am a new student here.",
+    "intent": "find_location",
+    "location_id": "residential_commons",
+    "preprocessed": {
+      "lowercased": "show me the way to the residential commons. i am a new student here.",
+      "tokens": [
+        "show",
+        "me",
+        "the",
+        "way",
+        "to",
+        "the",
+        "residential",
+        "commons",
+        "i",
+        "am",
+        "a",
+        "new",
+        "student",
+        "here"
+      ],
+      "tokens_no_stopwords": [
+        "show",
+        "way",
+        "residential",
+        "commons",
+        "new",
+        "student"
+      ],
+      "lemmatized": [
+        "show",
+        "way",
+        "residential",
+        "common",
+        "new",
+        "student"
+      ]
+    }
+  },
+  {
+    "text": "What are the opening hours of the Hydaway Outdoor Recreation Center?",
+    "intent": "ask_hours",
+    "location_id": "hydaway_outdoor_recreation_center",
+    "preprocessed": {
+      "lowercased": "what are the opening hours of the hydaway outdoor recreation center?",
+      "tokens": [
+        "what",
+        "are",
+        "the",
+        "opening",
+        "hours",
+        "of",
+        "the",
+        "hydaway",
+        "outdoor",
+        "recreation",
+        "center"
+      ],
+      "tokens_no_stopwords": [
+        "opening",
+        "hours",
+        "hydaway",
+        "outdoor",
+        "recreation",
+        "center"
+      ],
+      "lemmatized": [
+        "opening",
+        "hour",
+        "hydaway",
+        "outdoor",
+        "recreation",
+        "center"
+      ]
+    }
+  },
+  {
+    "text": "Where is the Indoor Track located? I have practice at six PM.",
+    "intent": "find_location",
+    "location_id": "indoor_track",
+    "preprocessed": {
+      "lowercased": "where is the indoor track located? i have practice at six pm.",
+      "tokens": [
+        "where",
+        "is",
+        "the",
+        "indoor",
+        "track",
+        "located",
+        "i",
+        "have",
+        "practice",
+        "at",
+        "six",
+        "pm"
+      ],
+      "tokens_no_stopwords": [
+        "indoor",
+        "track",
+        "located",
+        "practice",
+        "six",
+        "pm"
+      ],
+      "lemmatized": [
+        "indoor",
+        "track",
+        "located",
+        "practice",
+        "six",
+        "pm"
+      ]
+    }
+  },
+  {
+    "text": "Tell me about the Center for Music and the Worship Arts.",
+    "intent": "find_location",
+    "location_id": "center_for_music_and_worship_arts",
+    "preprocessed": {
+      "lowercased": "tell me about the center for music and the worship arts.",
+      "tokens": [
+        "tell",
+        "me",
+        "about",
+        "the",
+        "center",
+        "for",
+        "music",
+        "and",
+        "the",
+        "worship",
+        "arts"
+      ],
+      "tokens_no_stopwords": [
+        "tell",
+        "center",
+        "music",
+        "worship",
+        "arts"
+      ],
+      "lemmatized": [
+        "tell",
+        "center",
+        "music",
+        "worship",
+        "art"
+      ]
+    }
+  },
+  {
+    "text": "How do I get to The Hill from the library? I need to find dining options.",
+    "intent": "find_location",
+    "location_id": "the_hill",
+    "preprocessed": {
+      "lowercased": "how do i get to the hill from the library? i need to find dining options.",
+      "tokens": [
+        "how",
+        "do",
+        "i",
+        "get",
+        "to",
+        "the",
+        "hill",
+        "from",
+        "the",
+        "library",
+        "i",
+        "need",
+        "to",
+        "find",
+        "dining",
+        "options"
+      ],
+      "tokens_no_stopwords": [
+        "get",
+        "hill",
+        "library",
+        "need",
+        "find",
+        "dining",
+        "options"
+      ],
+      "lemmatized": [
+        "get",
+        "hill",
+        "library",
+        "need",
+        "find",
+        "dining",
+        "option"
+      ]
+    }
+  },
+  {
+    "text": "Where can I find the Baseball Stadium? I want to watch the game tonight.",
+    "intent": "find_location",
+    "location_id": "baseball_stadium",
+    "preprocessed": {
+      "lowercased": "where can i find the baseball stadium? i want to watch the game tonight.",
+      "tokens": [
+        "where",
+        "can",
+        "i",
+        "find",
+        "the",
+        "baseball",
+        "stadium",
+        "i",
+        "want",
+        "to",
+        "watch",
+        "the",
+        "game",
+        "tonight"
+      ],
+      "tokens_no_stopwords": [
+        "find",
+        "baseball",
+        "stadium",
+        "want",
+        "watch",
+        "game",
+        "tonight"
+      ],
+      "lemmatized": [
+        "find",
+        "baseball",
+        "stadium",
+        "want",
+        "watch",
+        "game",
+        "tonight"
+      ]
+    }
+  },
+  {
+    "text": "What time does the library open tomorrow morning?",
+    "intent": "ask_hours",
+    "location_id": "jerry_falwell_library",
+    "preprocessed": {
+      "lowercased": "what time does the library open tomorrow morning?",
+      "tokens": [
+        "what",
+        "time",
+        "does",
+        "the",
+        "library",
+        "open",
+        "tomorrow",
+        "morning"
+      ],
+      "tokens_no_stopwords": [
+        "time",
+        "library",
+        "open",
+        "tomorrow",
+        "morning"
+      ],
+      "lemmatized": [
+        "time",
+        "library",
+        "open",
+        "tomorrow",
+        "morning"
+      ]
+    }
+  },
+  {
+    "text": "Is the gym open right now?",
+    "intent": "ask_hours",
+    "location_id": "lahaye_recreation_center",
+    "preprocessed": {
+      "lowercased": "is the gym open right now?",
+      "tokens": [
+        "is",
+        "the",
+        "gym",
+        "open",
+        "right",
+        "now"
+      ],
+      "tokens_no_stopwords": [
+        "gym",
+        "open",
+        "right"
+      ],
+      "lemmatized": [
+        "gym",
+        "open",
+        "right"
+      ]
+    }
+  },
+  {
+    "text": "When does the dining hall close on weekends?",
+    "intent": "ask_hours",
+    "location_id": "the_hill",
+    "preprocessed": {
+      "lowercased": "when does the dining hall close on weekends?",
+      "tokens": [
+        "when",
+        "does",
+        "the",
+        "dining",
+        "hall",
+        "close",
+        "on",
+        "weekends"
+      ],
+      "tokens_no_stopwords": [
+        "dining",
+        "hall",
+        "close",
+        "weekends"
+      ],
+      "lemmatized": [
+        "dining",
+        "hall",
+        "close",
+        "weekend"
+      ]
+    }
+  },
+  {
+    "text": "What are the hours for the indoor track on Sundays?",
+    "intent": "ask_hours",
+    "location_id": "indoor_track",
+    "preprocessed": {
+      "lowercased": "what are the hours for the indoor track on sundays?",
+      "tokens": [
+        "what",
+        "are",
+        "the",
+        "hours",
+        "for",
+        "the",
+        "indoor",
+        "track",
+        "on",
+        "sundays"
+      ],
+      "tokens_no_stopwords": [
+        "hours",
+        "indoor",
+        "track",
+        "sundays"
+      ],
+      "lemmatized": [
+        "hour",
+        "indoor",
+        "track",
+        "sunday"
+      ]
+    }
+  },
+  {
+    "text": "Is the School of Business open on Saturdays?",
+    "intent": "ask_hours",
+    "location_id": "school_of_business",
+    "preprocessed": {
+      "lowercased": "is the school of business open on saturdays?",
+      "tokens": [
+        "is",
+        "the",
+        "school",
+        "of",
+        "business",
+        "open",
+        "on",
+        "saturdays"
+      ],
+      "tokens_no_stopwords": [
+        "school",
+        "business",
+        "open",
+        "saturdays"
+      ],
+      "lemmatized": [
+        "school",
+        "business",
+        "open",
+        "saturday"
+      ]
+    }
+  },
+  {
+    "text": "What time does the recreation center close tonight?",
+    "intent": "ask_hours",
+    "location_id": "lahaye_recreation_center",
+    "preprocessed": {
+      "lowercased": "what time does the recreation center close tonight?",
+      "tokens": [
+        "what",
+        "time",
+        "does",
+        "the",
+        "recreation",
+        "center",
+        "close",
+        "tonight"
+      ],
+      "tokens_no_stopwords": [
+        "time",
+        "recreation",
+        "center",
+        "close",
+        "tonight"
+      ],
+      "lemmatized": [
+        "time",
+        "recreation",
+        "center",
+        "close",
+        "tonight"
+      ]
+    }
+  },
+  {
+    "text": "Are the science labs open after 6pm?",
+    "intent": "ask_hours",
+    "location_id": "center_for_natural_sciences_lab",
+    "preprocessed": {
+      "lowercased": "are the science labs open after 6pm?",
+      "tokens": [
+        "are",
+        "the",
+        "science",
+        "labs",
+        "open",
+        "after",
+        "6pm"
+      ],
+      "tokens_no_stopwords": [
+        "science",
+        "labs",
+        "open",
+        "6pm"
+      ],
+      "lemmatized": [
+        "science",
+        "lab",
+        "open",
+        "6pm"
+      ]
+    }
+  },
+  {
+    "text": "When can I access the outdoor recreation area this weekend?",
+    "intent": "ask_hours",
+    "location_id": "hydaway_outdoor_recreation_center",
+    "preprocessed": {
+      "lowercased": "when can i access the outdoor recreation area this weekend?",
+      "tokens": [
+        "when",
+        "can",
+        "i",
+        "access",
+        "the",
+        "outdoor",
+        "recreation",
+        "area",
+        "this",
+        "weekend"
+      ],
+      "tokens_no_stopwords": [
+        "access",
+        "outdoor",
+        "recreation",
+        "area",
+        "weekend"
+      ],
+      "lemmatized": [
+        "access",
+        "outdoor",
+        "recreation",
+        "area",
+        "weekend"
+      ]
+    }
+  },
+  {
+    "text": "Are there any events at the student union this weekend?",
+    "intent": "find_event",
+    "location_id": "montview_student_union",
+    "preprocessed": {
+      "lowercased": "are there any events at the student union this weekend?",
+      "tokens": [
+        "are",
+        "there",
+        "any",
+        "events",
+        "at",
+        "the",
+        "student",
+        "union",
+        "this",
+        "weekend"
+      ],
+      "tokens_no_stopwords": [
+        "events",
+        "student",
+        "union",
+        "weekend"
+      ],
+      "lemmatized": [
+        "event",
+        "student",
+        "union",
+        "weekend"
+      ]
+    }
+  },
+  {
+    "text": "Is there a football game at Williams Stadium this week?",
+    "intent": "find_event",
+    "location_id": "williams_stadium",
+    "preprocessed": {
+      "lowercased": "is there a football game at williams stadium this week?",
+      "tokens": [
+        "is",
+        "there",
+        "a",
+        "football",
+        "game",
+        "at",
+        "williams",
+        "stadium",
+        "this",
+        "week"
+      ],
+      "tokens_no_stopwords": [
+        "football",
+        "game",
+        "williams",
+        "stadium",
+        "week"
+      ],
+      "lemmatized": [
+        "football",
+        "game",
+        "williams",
+        "stadium",
+        "week"
+      ]
+    }
+  },
+  {
+    "text": "What's happening at the music center tonight?",
+    "intent": "find_event",
+    "location_id": "center_for_music_and_worship_arts",
+    "preprocessed": {
+      "lowercased": "what's happening at the music center tonight?",
+      "tokens": [
+        "what",
+        "'s",
+        "happening",
+        "at",
+        "the",
+        "music",
+        "center",
+        "tonight"
+      ],
+      "tokens_no_stopwords": [
+        "'s",
+        "happening",
+        "music",
+        "center",
+        "tonight"
+      ],
+      "lemmatized": [
+        "'s",
+        "happening",
+        "music",
+        "center",
+        "tonight"
+      ]
+    }
+  },
+  {
+    "text": "Is there a baseball game tonight?",
+    "intent": "find_event",
+    "location_id": "baseball_stadium",
+    "preprocessed": {
+      "lowercased": "is there a baseball game tonight?",
+      "tokens": [
+        "is",
+        "there",
+        "a",
+        "baseball",
+        "game",
+        "tonight"
+      ],
+      "tokens_no_stopwords": [
+        "baseball",
+        "game",
+        "tonight"
+      ],
+      "lemmatized": [
+        "baseball",
+        "game",
+        "tonight"
+      ]
+    }
+  },
+  {
+    "text": "Any club fairs happening this week?",
+    "intent": "find_event",
+    "location_id": "montview_student_union",
+    "preprocessed": {
+      "lowercased": "any club fairs happening this week?",
+      "tokens": [
+        "any",
+        "club",
+        "fairs",
+        "happening",
+        "this",
+        "week"
+      ],
+      "tokens_no_stopwords": [
+        "club",
+        "fairs",
+        "happening",
+        "week"
+      ],
+      "lemmatized": [
+        "club",
+        "fair",
+        "happening",
+        "week"
+      ]
+    }
+  },
+  {
+    "text": "What's going on at the recreation center today?",
+    "intent": "find_event",
+    "location_id": "lahaye_recreation_center",
+    "preprocessed": {
+      "lowercased": "what's going on at the recreation center today?",
+      "tokens": [
+        "what",
+        "'s",
+        "going",
+        "on",
+        "at",
+        "the",
+        "recreation",
+        "center",
+        "today"
+      ],
+      "tokens_no_stopwords": [
+        "'s",
+        "going",
+        "recreation",
+        "center",
+        "today"
+      ],
+      "lemmatized": [
+        "'s",
+        "going",
+        "recreation",
+        "center",
+        "today"
+      ]
+    }
+  },
+  {
+    "text": "Is there a recital at the worship arts center?",
+    "intent": "find_event",
+    "location_id": "center_for_music_and_worship_arts",
+    "preprocessed": {
+      "lowercased": "is there a recital at the worship arts center?",
+      "tokens": [
+        "is",
+        "there",
+        "a",
+        "recital",
+        "at",
+        "the",
+        "worship",
+        "arts",
+        "center"
+      ],
+      "tokens_no_stopwords": [
+        "recital",
+        "worship",
+        "arts",
+        "center"
+      ],
+      "lemmatized": [
+        "recital",
+        "worship",
+        "art",
+        "center"
+      ]
+    }
+  },
+  {
+    "text": "Are there activities at the lake today?",
+    "intent": "find_event",
+    "location_id": "hydaway_outdoor_recreation_center",
+    "preprocessed": {
+      "lowercased": "are there activities at the lake today?",
+      "tokens": [
+        "are",
+        "there",
+        "activities",
+        "at",
+        "the",
+        "lake",
+        "today"
+      ],
+      "tokens_no_stopwords": [
+        "activities",
+        "lake",
+        "today"
+      ],
+      "lemmatized": [
+        "activity",
+        "lake",
+        "today"
+      ]
+    }
+  },
+  {
+    "text": "How do I get to the cafeteria from my dorm?",
+    "intent": "find_location",
+    "location_id": "the_hill",
+    "preprocessed": {
+      "lowercased": "how do i get to the cafeteria from my dorm?",
+      "tokens": [
+        "how",
+        "do",
+        "i",
+        "get",
+        "to",
+        "the",
+        "cafeteria",
+        "from",
+        "my",
+        "dorm"
+      ],
+      "tokens_no_stopwords": [
+        "get",
+        "cafeteria",
+        "dorm"
+      ],
+      "lemmatized": [
+        "get",
+        "cafeteria",
+        "dorm"
+      ]
+    }
+  },
+  {
+    "text": "Can you direct me to the residence halls?",
+    "intent": "find_location",
+    "location_id": "residential_commons",
+    "preprocessed": {
+      "lowercased": "can you direct me to the residence halls?",
+      "tokens": [
+        "can",
+        "you",
+        "direct",
+        "me",
+        "to",
+        "the",
+        "residence",
+        "halls"
+      ],
+      "tokens_no_stopwords": [
+        "direct",
+        "residence",
+        "halls"
+      ],
+      "lemmatized": [
+        "direct",
+        "residence",
+        "hall"
+      ]
+    }
+  },
+  {
+    "text": "Where is the science building?",
+    "intent": "find_location",
+    "location_id": "center_for_natural_sciences",
+    "preprocessed": {
+      "lowercased": "where is the science building?",
+      "tokens": [
+        "where",
+        "is",
+        "the",
+        "science",
+        "building"
+      ],
+      "tokens_no_stopwords": [
+        "science",
+        "building"
+      ],
+      "lemmatized": [
+        "science",
+        "building"
+      ]
+    }
+  },
+  {
+    "text": "I'm lost, how do I get to campus east?",
+    "intent": "find_location",
+    "location_id": "campus_east",
+    "preprocessed": {
+      "lowercased": "i'm lost, how do i get to campus east?",
+      "tokens": [
+        "i",
+        "'m",
+        "lost",
+        "how",
+        "do",
+        "i",
+        "get",
+        "to",
+        "campus",
+        "east"
+      ],
+      "tokens_no_stopwords": [
+        "'m",
+        "lost",
+        "get",
+        "campus",
+        "east"
+      ],
+      "lemmatized": [
+        "'m",
+        "lost",
+        "get",
+        "campus",
+        "east"
+      ]
+    }
+  },
+  {
+    "text": "Where is the shooting range located?",
+    "intent": "find_location",
+    "location_id": "gun_club",
+    "preprocessed": {
+      "lowercased": "where is the shooting range located?",
+      "tokens": [
+        "where",
+        "is",
+        "the",
+        "shooting",
+        "range",
+        "located"
+      ],
+      "tokens_no_stopwords": [
+        "shooting",
+        "range",
+        "located"
+      ],
+      "lemmatized": [
+        "shooting",
+        "range",
+        "located"
+      ]
+    }
+  },
+  {
+    "text": "Take me to the music building please.",
+    "intent": "find_location",
+    "location_id": "center_for_music_and_worship_arts",
+    "preprocessed": {
+      "lowercased": "take me to the music building please.",
+      "tokens": [
+        "take",
+        "me",
+        "to",
+        "the",
+        "music",
+        "building",
+        "please"
+      ],
+      "tokens_no_stopwords": [
+        "take",
+        "music",
+        "building",
+        "please"
+      ],
+      "lemmatized": [
+        "take",
+        "music",
+        "building",
+        "please"
+      ]
+    }
+  },
+  {
+    "text": "What's the quickest path to the library from here?",
+    "intent": "find_location",
+    "location_id": "jerry_falwell_library",
+    "preprocessed": {
+      "lowercased": "what's the quickest path to the library from here?",
+      "tokens": [
+        "what",
+        "'s",
+        "the",
+        "quickest",
+        "path",
+        "to",
+        "the",
+        "library",
+        "from",
+        "here"
+      ],
+      "tokens_no_stopwords": [
+        "'s",
+        "quickest",
+        "path",
+        "library"
+      ],
+      "lemmatized": [
+        "'s",
+        "quickest",
+        "path",
+        "library"
+      ]
+    }
+  },
+  {
+    "text": "Can you show me where the baseball field is?",
+    "intent": "find_location",
+    "location_id": "baseball_stadium",
+    "preprocessed": {
+      "lowercased": "can you show me where the baseball field is?",
+      "tokens": [
+        "can",
+        "you",
+        "show",
+        "me",
+        "where",
+        "the",
+        "baseball",
+        "field",
+        "is"
+      ],
+      "tokens_no_stopwords": [
+        "show",
+        "baseball",
+        "field"
+      ],
+      "lemmatized": [
+        "show",
+        "baseball",
+        "field"
+      ]
+    }
+  },
+  {
+    "text": "When is the gun club open this week?",
+    "intent": "ask_hours",
+    "location_id": "gun_club",
+    "preprocessed": {
+      "lowercased": "when is the gun club open this week?",
+      "tokens": [
+        "when",
+        "is",
+        "the",
+        "gun",
+        "club",
+        "open",
+        "this",
+        "week"
+      ],
+      "tokens_no_stopwords": [
+        "gun",
+        "club",
+        "open",
+        "week"
+      ],
+      "lemmatized": [
+        "gun",
+        "club",
+        "open",
+        "week"
+      ]
+    }
+  },
+  {
+    "text": "What hours is campus east community center open?",
+    "intent": "ask_hours",
+    "location_id": "campus_east",
+    "preprocessed": {
+      "lowercased": "what hours is campus east community center open?",
+      "tokens": [
+        "what",
+        "hours",
+        "is",
+        "campus",
+        "east",
+        "community",
+        "center",
+        "open"
+      ],
+      "tokens_no_stopwords": [
+        "hours",
+        "campus",
+        "east",
+        "community",
+        "center",
+        "open"
+      ],
+      "lemmatized": [
+        "hour",
+        "campus",
+        "east",
+        "community",
+        "center",
+        "open"
+      ]
+    }
+  },
+  {
+    "text": "Does the natural sciences building close early on Fridays?",
+    "intent": "ask_hours",
+    "location_id": "center_for_natural_sciences",
+    "preprocessed": {
+      "lowercased": "does the natural sciences building close early on fridays?",
+      "tokens": [
+        "does",
+        "the",
+        "natural",
+        "sciences",
+        "building",
+        "close",
+        "early",
+        "on",
+        "fridays"
+      ],
+      "tokens_no_stopwords": [
+        "natural",
+        "sciences",
+        "building",
+        "close",
+        "early",
+        "fridays"
+      ],
+      "lemmatized": [
+        "natural",
+        "science",
+        "building",
+        "close",
+        "early",
+        "friday"
+      ]
+    }
+  },
+  {
+    "text": "What time does the baseball stadium open for games?",
+    "intent": "ask_hours",
+    "location_id": "baseball_stadium",
+    "preprocessed": {
+      "lowercased": "what time does the baseball stadium open for games?",
+      "tokens": [
+        "what",
+        "time",
+        "does",
+        "the",
+        "baseball",
+        "stadium",
+        "open",
+        "for",
+        "games"
+      ],
+      "tokens_no_stopwords": [
+        "time",
+        "baseball",
+        "stadium",
+        "open",
+        "games"
+      ],
+      "lemmatized": [
+        "time",
+        "baseball",
+        "stadium",
+        "open",
+        "game"
+      ]
+    }
+  },
+  {
+    "text": "Any upcoming events near the residential commons?",
+    "intent": "find_event",
+    "location_id": "residential_commons",
+    "preprocessed": {
+      "lowercased": "any upcoming events near the residential commons?",
+      "tokens": [
+        "any",
+        "upcoming",
+        "events",
+        "near",
+        "the",
+        "residential",
+        "commons"
+      ],
+      "tokens_no_stopwords": [
+        "upcoming",
+        "events",
+        "near",
+        "residential",
+        "commons"
+      ],
+      "lemmatized": [
+        "upcoming",
+        "event",
+        "near",
+        "residential",
+        "common"
+      ]
+    }
+  },
+  {
+    "text": "What events are scheduled at the indoor track this week?",
+    "intent": "find_event",
+    "location_id": "indoor_track",
+    "preprocessed": {
+      "lowercased": "what events are scheduled at the indoor track this week?",
+      "tokens": [
+        "what",
+        "events",
+        "are",
+        "scheduled",
+        "at",
+        "the",
+        "indoor",
+        "track",
+        "this",
+        "week"
+      ],
+      "tokens_no_stopwords": [
+        "events",
+        "scheduled",
+        "indoor",
+        "track",
+        "week"
+      ],
+      "lemmatized": [
+        "event",
+        "scheduled",
+        "indoor",
+        "track",
+        "week"
+      ]
+    }
+  },
+  {
+    "text": "Is there a game night happening anywhere tonight?",
+    "intent": "find_event",
+    "location_id": "residential_commons",
+    "preprocessed": {
+      "lowercased": "is there a game night happening anywhere tonight?",
+      "tokens": [
+        "is",
+        "there",
+        "a",
+        "game",
+        "night",
+        "happening",
+        "anywhere",
+        "tonight"
+      ],
+      "tokens_no_stopwords": [
+        "game",
+        "night",
+        "happening",
+        "anywhere",
+        "tonight"
+      ],
+      "lemmatized": [
+        "game",
+        "night",
+        "happening",
+        "anywhere",
+        "tonight"
+      ]
+    }
+  },
+  {
+    "text": "What's the schedule for the science labs this week?",
+    "intent": "find_event",
+    "location_id": "center_for_natural_sciences_lab",
+    "preprocessed": {
+      "lowercased": "what's the schedule for the science labs this week?",
+      "tokens": [
+        "what",
+        "'s",
+        "the",
+        "schedule",
+        "for",
+        "the",
+        "science",
+        "labs",
+        "this",
+        "week"
+      ],
+      "tokens_no_stopwords": [
+        "'s",
+        "schedule",
+        "science",
+        "labs",
+        "week"
+      ],
+      "lemmatized": [
+        "'s",
+        "schedule",
+        "science",
+        "lab",
+        "week"
+      ]
+    }
+  }
+]
